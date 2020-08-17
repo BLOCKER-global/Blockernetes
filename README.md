@@ -1,3 +1,17 @@
+# Blockernetes
+
+----
+blockernetes := wrap(Kubernetes, Blocker)
+
+----
+
+Blockernetes is our fork of Kubernetes for orchestrating container deployments, services, etc. (yes actual shipping container)
+
+
+----
+----
+--- begin original Kubernetes README.md ---
+
 # Kubernetes
 
 [![GoDoc Widget]][GoDoc] [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/569/badge)](https://bestpractices.coreinfrastructure.org/projects/569)
