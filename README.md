@@ -1,11 +1,8 @@
 # Blockernetes
 
-----
     blockernetes := wrap(Kubernetes, Blocker)
 
-----
-
-Blockernetes is our fork of Kubernetes for orchestrating container deployments, services, etc. (yes actual shipping container)
+Blockernetes is our fork of Kubernetes for orchestrating container deployments, services, etc. (yes actual shipping-containers)
 
 
 ----
